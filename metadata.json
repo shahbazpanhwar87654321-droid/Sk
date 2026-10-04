@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Creator Studio",
+  "description": "YouTube Thumbnail Maker & Creator Assistant for Gaming YouTubers with templates, AI title & description tools, planner, and layer editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
